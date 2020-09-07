@@ -19,5 +19,7 @@
 ## < dd >
 ### This is used to contain the definition
 ![definition list](https://user-images.githubusercontent.com/70091044/92373402-eefedf80-f106-11ea-89bf-6a86ff643005.PNG)
-## Nested Lists
+## *Nested Lists*
 ### You can put a second list inside an < li > element to create a sublist or nested list.
+![nested list](https://user-images.githubusercontent.com/70091044/92373661-53ba3a00-f107-11ea-9488-1ee0bc1f62f4.PNG)
+
