@@ -18,3 +18,6 @@
 ### This is used to contain the term being defined (the definition term).
 ## < dd >
 ### This is used to contain the definition
+![definition list](https://user-images.githubusercontent.com/70091044/92373402-eefedf80-f106-11ea-89bf-6a86ff643005.PNG)
+## Nested Lists
+### You can put a second list inside an < li > element to create a sublist or nested list.
